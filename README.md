@@ -1,6 +1,7 @@
 # trivtask
 
 A new Flutter project.
+Firebaselogin+provider+sharedprefs
 
 ## Getting Started
 
